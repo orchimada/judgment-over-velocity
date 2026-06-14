@@ -6,7 +6,7 @@ A [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills) 
 
 It is explicitly willing to answer **"don't build anything"** — the most common right answer and the rarest one product teams hear.
 
-Made by [Artem Domozhakov](https://orchimada.github.io) · [How it works (long version)](https://orchimada.github.io/judgment-over-velocity.html)
+Made by [Artem Domozhakov](https://orchimada.github.io) · [How it works (long version)](https://orchimada.github.io/judgement-skill.html)
 
 ## The four gates
 
